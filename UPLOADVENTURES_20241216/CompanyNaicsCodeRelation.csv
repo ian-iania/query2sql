@@ -1,0 +1,5 @@
+CompanyID,NaicsSectorCode,NaicsSectorDescription,NaicsIndustryCode,NaicsIndustryDescription,RowID,LastUpdated
+55998-10,22,Utilities,221310,Water Supply and Irrigation Systems,32ab8fb1de7f7ba6bd6d5bd47343b74fc39bfecebf20cc2d38e50b40c169abeb,12/09/2024
+59434-48,62,Health Care and Social Assistance,621111,Offices of Physicians (except Mental Health Specialists),10cd6189a5f72fbdbf2fe4ed97877716dc75ccb16f2f8f30b2443a627846c668,12/09/2024
+42056-74,21,"Mining, Quarrying, and Oil and Gas Extraction",212393,Other Chemical and Fertilizer Mineral Mining,6896e34cb91107b62e0ccd392238ce7e2412b28fc53e0f00f62065a3e485df2f,12/09/2024
+12817-09,45,Retail Trade,454110,Electronic Shopping and Mail-Order Houses,b85432b2c132bfef82375dc9954513a53c2716908e3619512abce8f75e7d740e,12/09/2024

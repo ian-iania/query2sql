@@ -1,0 +1,6 @@
+query2sql-1/
+query2sql/
+.venv/
+__pycache__/
+*.pyc
+*.log

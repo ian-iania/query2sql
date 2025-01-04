@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "query2sql",
+			"path": "query2sql"
+		}
+	],
+	"settings": {}
+}
